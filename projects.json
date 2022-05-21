@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Trivia Party",
+      "live": "https://briannag31.github.io/trivia_game/",
+      "git": "https://github.com/briannag31/trivia_game",
+      "image": "https://i.imgur.com/9wcttlX.png"
+    },
+    {
+      "name": "Inspired Eating Meal Planner",
+      "live": "https://inspired-eating.herokuapp.com/meal-planner",
+      "git": "https://github.com/briannag31/inspired-eating-planner",
+      "image": "https://i.imgur.com/ZNuqImk.png"
+    }
+  ]
