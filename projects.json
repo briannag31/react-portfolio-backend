@@ -3,12 +3,20 @@
       "name": "Trivia Party",
       "live": "https://briannag31.github.io/trivia_game/",
       "git": "https://github.com/briannag31/trivia_game",
-      "image": "https://i.imgur.com/9wcttlX.png"
+      "image": "https://i.imgur.com/9wcttlX.png",
+      "description": "Trivia Party was my first coding project. The app allows a user to cycle through and answer a variety of trivia questions from the OpenTriviaDB. Features an API, AJAX, Javascript, HTML, & CSS."
     },
     {
       "name": "Inspired Eating Meal Planner",
       "live": "https://inspired-eating.herokuapp.com/meal-planner",
       "git": "https://github.com/briannag31/inspired-eating-planner",
-      "image": "https://i.imgur.com/ZNuqImk.png"
-    }
+      "image": "https://i.imgur.com/ZNuqImk.png",
+      "description": "The app allows user to keep track of their weekly meals. Features RESTful routes, MVC, MongoDB & Mongoose, Heroku, JavaScript, Node.js, HTML & CSS"
+    },
+    {"name": "Therapist Finder",
+    "live": "https://bejewelled-cobbler-a0ab0a.netlify.app/",
+    "git": "https://github.com/germanokuerten/therapist-finder-frontend",
+    "image": "https://i.imgur.com/sqM2O5p.png",
+    "description": "This app is the result of a group project and a personal passion of mine - providing individuals access to mental health professionals.Features full CRUD application using Express, React, MongoDB, React Google Login, Netlify, Heroku, JavaScript, Node.js, HTML & CSS"
+  }
   ]
