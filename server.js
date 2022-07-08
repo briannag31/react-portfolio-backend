@@ -3,6 +3,7 @@ const cors = require("cors");
 
 const projects = require("./projects.json");
 const about = require("./about.json");
+const resume = require("./resume.json")
 
 const app = express();
 
